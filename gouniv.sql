@@ -1,5 +1,3 @@
-
-
 DROP DATABASE IF EXISTS gouniv;
 CREATE DATABASE gouniv;
 ​
